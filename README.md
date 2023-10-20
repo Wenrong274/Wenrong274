@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hybrid0930@gmail.com**
 
-- 📄 Know about my experiences [get my CV](https://wenrongdev.com/profile/cv_wenrong.pdf)
+- 📄 Know about my experiences [https://wenrongdev.com/profile/cv_wenrong.pdf](https://wenrongdev.com/profile/cv_wenrong.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/wenrongdev.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="wenrongdev.com" height="30" width="40" /></a>
+<a href="/https://wenrongdev.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wenrongdev.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
