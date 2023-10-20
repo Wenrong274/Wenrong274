@@ -9,16 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Wix Examples](https://wenrongdev.com/posts/wixexamples/)
-- [QC Cube](https://wenrongdev.com/portfolios/jtqc/qccube/)
-- [寶馬曳引機 VR](https://wenrongdev.com/portfolios/jtqc/tractorvr/)
-- [糖的科普知識](https://wenrongdev.com/portfolios/jtqc/sugarfactory/)
-- [變動的大地](https://wenrongdev.com/portfolios/jtqc/elegeoscience/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://wenrongdev.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wenrongdev.com/" height="30" width="40" /></a>
+<a href="/https://wenrongdev.com/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wenrongdev.com/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
