@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm WenRong</h1>
 <h3 align="center">Unity developer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wenrong274&label=Profile%20views&color=0e75b6&style=flat" alt="wenrong274" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wenrong274" alt="wenrong274" /></a> </p>
 
 - 💬 Ask me about **hybrid0930@gmail.com**
