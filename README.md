@@ -1,24 +1,14 @@
 <h1 align="center">嗨 👋, 我是 WenRong</h1>
-<h3 align="center">來自台灣的 Unity developer</h3>
+<h3 align="center">我來自台灣的 Unity developer</h3>
 
-- 📝 I regularly write articles on [https://wenrongdev.com/](https://wenrongdev.com/)
+- 📝 我的 Blog [https://wenrongdev.com/](https://wenrongdev.com/)
 
-- 📫 How to reach me **hybrid0930@gmail.com**
+- 📫 聯絡我 **hybrid0930@gmail.com**
 
-- 📄 Know about my experiences [https://wenrongdev.com/profile/cv_wenrong.pdf](https://wenrongdev.com/profile/cv_wenrong.pdf)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Wix Examples](https://wenrongdev.com/posts/wixexamples/)
-- [QC Cube](https://wenrongdev.com/portfolios/jtqc/qccube/)
-- [寶馬曳引機 VR](https://wenrongdev.com/portfolios/jtqc/tractorvr/)
-- [糖的科普知識](https://wenrongdev.com/portfolios/jtqc/sugarfactory/)
-- [變動的大地](https://wenrongdev.com/portfolios/jtqc/elegeoscience/)
-<!-- BLOG-POST-LIST:END -->
+- 📄 工作經歷 [https://wenrongdev.com/profile/cv_wenrong.pdf](https://wenrongdev.com/profile/cv_wenrong.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://wenrongdev.com/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wenrongdev.com/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
