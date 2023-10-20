@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hybrid0930@gmail.com**
 
-- 📄 Know about my experiences [cv](https://wenrongdev.com/profile/cv_wenrong.pdf)
+- 📄 Know about my experiences [get my CV](https://wenrongdev.com/profile/cv_wenrong.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
