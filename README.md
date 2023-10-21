@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Wix Examples](https://wenrongdev.com/posts/wixexamples/)
+- [QC Cube](https://wenrongdev.com/portfolios/jtqc/qccube/)
+- [寶馬曳引機 VR](https://wenrongdev.com/portfolios/jtqc/tractorvr/)
+- [糖的科普知識](https://wenrongdev.com/portfolios/jtqc/sugarfactory/)
+- [變動的大地](https://wenrongdev.com/portfolios/jtqc/elegeoscience/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
